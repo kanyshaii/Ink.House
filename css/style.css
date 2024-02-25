@@ -135,3 +135,9 @@ line-height: 23px;
 	transition: 0.3s;
 	transform: scale(1.1);
 }
+/* replicas */
+.replicas_img{
+	width: 540px;
+	height: 621px;
+	margin-left: 150px;
+	}
