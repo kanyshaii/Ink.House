@@ -58,8 +58,8 @@ textarea{
 	resize: none;
 }
 body{
-	font-size: 14px;
-	line-height: 19px;
+	font-size: 20px;
+	line-height: 23px;
 	font-weight: 500;
 	color: #242424;
 	width: 100%;
@@ -75,9 +75,8 @@ body{
 .dn{
 	display: none;
 }
-section{
-	padding: 100px 0;
-}
+/* section{
+	padding: 100px 0; */
 .sec_tit{
 	font-weight: 800;
 	font-size: 42px;
@@ -107,4 +106,32 @@ section{
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-between;
+}
+/* header */
+header{
+	height: 100px;
+	background:#E1EDE6;
+}
+.logo{
+	padding: 35px  155px 475px;
+}
+.menu {
+	position: relative;
+	float: left;
+}
+.menu a{
+display: block;
+padding: 35px ;
+font-family: Raleway;
+font-size: 20px;
+font-weight: 500;
+line-height: 23px;
+}
+.cart{
+	padding: 35px 150px 35px  45px;
+}
+.menu a:hover{
+	color: darkgreen;
+	transition: 0.3s;
+	transform: scale(1.1);
 }
