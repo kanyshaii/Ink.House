@@ -141,3 +141,18 @@ line-height: 23px;
 	height: 621px;
 	margin-left: 150px;
 	}
+.replicas_content{
+		max-width: 540px;
+		margin-top: 145px ;
+	} 
+.replicas_tit{
+	font-size: 60px;
+	line-height: 66px;
+	margin-bottom: 20px;
+	}
+.replicas_txt{
+	font-size: 18px;
+	line-height: 27px;
+	color: #86928B;
+	margin-bottom: 55px;
+	}
