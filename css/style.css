@@ -155,7 +155,8 @@ line-height: 23px;
 	line-height: 27px;
 	color: #86928B;
 	margin-bottom: 55px;
-}.btn{
+}
+.btn{
 		color: #598D66;
 		padding: 15px 40px;
 		border: 1px solid #598D66;
@@ -174,4 +175,25 @@ line-height: 44px;
 margin-left: 150px;
 padding-top: 70px;
 }
+.reprn_btns{
+	display: flex;
+	align-items: flex-end;
+	gap: 20px;
+}
+.reprn__btn:hover ,
+.reprn_btn 
+{
+	color:#2c2d35;
+	padding: 10px 20px ;
+	background: #d4e8d9;
+	border-radius: 20px;
+}
+.reprn_btn:hover ,
+.reprn__btn{
+	color:#f4f6f5;
+	padding: 10px 20px ;
+	background: #376b44;
+	border-radius: 20px;
+}
+
 
