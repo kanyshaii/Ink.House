@@ -155,4 +155,15 @@ line-height: 23px;
 	line-height: 27px;
 	color: #86928B;
 	margin-bottom: 55px;
+}.btn{
+		color: #598D66;
+		padding: 15px 40px;
+		border: 1px solid #598D66;
+		width: auto;
+	}
+.btn:hover{
+	color: #fff;
+	background: #598D66;
+	border-color: #fff;
+	transition: 0.5s;
 	}
