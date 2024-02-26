@@ -239,3 +239,21 @@ color: #598D66;
 	display: block;
 	width: 100%;
 }
+/* collection */
+.collection{
+	background: url(../img/collection.jpg);
+	width: 1440px;
+    height: 574px;
+}
+.collection_content{
+width: 70%;
+padding: 65px 155px;
+}
+.collection_tit-ic{
+	display: flex;
+	align-items: center;
+}
+.collection_ic{
+	margin-right: 15px;
+	width: 120px;
+}
