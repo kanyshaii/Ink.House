@@ -257,3 +257,19 @@ padding: 65px 155px;
 	margin-right: 15px;
 	width: 120px;
 }
+.collection_paragrafh{
+	margin-top: 20px;
+	margin-bottom: 55px;
+}
+.collection_tit{
+font-size: 40px;
+line-height: 40px;
+color: #F4F6F5;
+font-weight: 200;
+}
+.collection_txt{
+font-size: 18px;
+line-height: 27px;
+color:#fff ;
+margin-bottom: 20px;
+}
