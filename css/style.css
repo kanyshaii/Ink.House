@@ -241,9 +241,7 @@ color: #598D66;
 }
 /* collection */
 .collection{
-	background: url(../img/collection.jpg);
-	width: 1440px;
-    height: 574px;
+	background: url(../img/collection.jpg) center no-repeat;
 }
 .collection_content{
 width: 70%;
