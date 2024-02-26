@@ -198,16 +198,15 @@ margin-bottom: 30px;
 	border-radius: 20px;
 }
 .reprn_cards{
-width: 350px;
-height: 730px;
-background: #E1EDE6;
-margin-left: 150px;
+    margin-left: 150px;
+}
+.card_in{
+	background: #E1EDE6;
+	margin-bottom: 30px;
+	width: calc((100% - 60px) / 3);
 }
 .card_img{
-width: 310px;
-height: 422px;
 margin: 20px;
-
 }
 .card_bottom{
 	margin: 20px ;
@@ -215,12 +214,13 @@ margin: 20px;
 .card_name{
 font-size: 18px;
 color: #86928B;
+margin-bottom: 10px;
 }
 .card_tit{
 font-size: 30px;
 line-height: 35px;
 color: #2c2d35;
-margin-bottom: 20px;
+margin-bottom: 10px;
 }
 .card_txt{
 font-size: 18px;
