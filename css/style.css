@@ -279,3 +279,17 @@ margin-bottom: 20px;
 	margin-top: 30px;
 	margin-left: 165px;
 }
+.team_content{
+	width: calc(50% - 0px);
+	padding: 170px 0;
+}
+.team_tit{
+font-size: 40px;
+line-height: 44px;
+margin-bottom: 20px;
+}
+.team_txt{
+font-size: 18px;
+line-height: 27px;
+margin-bottom: 5px;
+}
