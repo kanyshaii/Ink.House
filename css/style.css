@@ -107,6 +107,9 @@ body{
 	flex-wrap: wrap;
 	justify-content: space-between;
 }
+.grey{
+	background-color: #F4F6F5;
+}
 /* header */
 header{
 	height: 100px;
