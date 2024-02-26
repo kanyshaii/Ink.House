@@ -234,3 +234,7 @@ line-height: 28px;
 margin-bottom: 20px;
 color: #598D66;
 }
+.card_btn{
+	display: block;
+	width: 100%;
+}
