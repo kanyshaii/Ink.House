@@ -273,3 +273,12 @@ line-height: 27px;
 color:#fff ;
 margin-bottom: 20px;
 }
+.btn__collection{
+	color: #2C2D35;
+	background: #EEDB6D;
+	border: #EEDB6D;
+	}
+.btn__collection:hover{
+		background: #2C2D35;
+		color: #EEDB6D;
+		}
