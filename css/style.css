@@ -318,3 +318,18 @@ margin-bottom: 10px;
 .footer_center{
 	gap: 70px;
 }
+.footer_ic{
+	margin-right: 30px;
+	width: 24px;
+	height: 24px;
+	background-repeat: no-repeat;
+}
+.footer_ic_fb{
+	background-image: url(../img/icons/footer.ic-1.svg)  ;
+}
+.footer_ic_ins{
+	background-image: url(../img/icons/footer.ic-2.svg);
+}
+.footer_ic_you{
+	background-image: url(../img/icons/footer.ic-3.svg);
+}
