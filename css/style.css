@@ -309,3 +309,12 @@ font-size: 18px;
 line-height: 21px;
 color: #86928B;
 }
+.footer_list li{
+font-size: 18px;
+line-height: 21px;
+color: #86928B;
+margin-bottom: 10px;
+}
+.footer_center{
+	gap: 70px;
+}
