@@ -169,6 +169,10 @@ padding: 35px ;
 	transition: 0.5s;
 	}
 /* reproductions */
+.repproductions_in{
+	padding-left: 70px;
+	padding-right: 70px;
+}
 .reprn_tit{
 font-size: 40px;
 line-height: 44px;
