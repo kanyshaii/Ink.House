@@ -115,6 +115,10 @@ header{
 .logo{
 	padding: 35px;
 }
+.logo:hover{
+	transform: scale(1.1);
+	transition: 0.3s;
+}
 .head_right{
 	align-items: center;
 	gap: 30px;
@@ -127,6 +131,10 @@ padding: 35px ;
 	color: darkgreen;
 	transition: 0.3s;
 	transform: scale(1.1);
+}
+.cart:hover{
+	transform: scale(1.1);
+	transition: 0.3s;
 }
 
 /* replicas */
